@@ -1,5 +1,44 @@
 Free Software to remove background from designs or to make white backgrounds to design:
 
+Free Software to remove background from designs or to make white backgrounds to design:
+
+Photopea (Free Photoshop alternative)
+
+www.photopea.com
+
+Steps:
+
+- Upload your logo.
+
+- Use the Magic Wand tool to select the off-white background.
+
+- Hit Delete (⌫) or replace it with a white fill.
+
+- Export as PNG or JPG with pure white background.
+
+Best Fix: Use Photopea (Free Online Photoshop)
+
+Go to Photopea
+
+Steps to Add Pure White Background:
+
+- Open Photopea > Click File > Open and upload your transparent PNG (from remove.bg).
+
+- Add a white background layer:
+
+- Go to Layer > New Fill Layer > Solid Color
+
+- Choose pure white (#FFFFFF)
+
+- Make sure this layer is below your logo layer in the Layers panel.
+
+- Adjust size/position if needed.
+
+- Export:
+
+    -> Go to File > Export As > JPG (to keep white background) or PNG if needed.
+
+
 Best Fix: Use Photopea (Free Online Photoshop)
 
 Go to Photopea
