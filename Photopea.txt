@@ -2,7 +2,7 @@ Free Software to remove background from designs or to make white backgrounds to 
 
 Photopea (Free Photoshop alternative)
 
-https://www.photopea.com
+www.photopea.com
 
 Steps:
 
