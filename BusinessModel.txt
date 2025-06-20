@@ -1,0 +1,117 @@
+Business Model for Atlantic Styles
+
+1. Niche Positioning & Brand Identity
+
+- Theme: Emotion-driven fashion with a modern, global edge (e.g., “Where Style Meets Passion”).
+
+- Design Focus: Unique, AI-generated statement pieces that tell a story — not just random graphics.
+
+- Target Audience: Gen Z & Millennials (16–35), urban, expressive, into minimalist or bold identity-driven fashion.
+
+2. Product Strategy
+
+- Flagship Products:
+
+  -> Premium unisex T-shirts (multiple sizes, vibrant colorways)
+
+  -> Hoodie collection for fall/winter
+
+- Design Themes (rotate monthly):
+
+  -> Motivational typography
+
+  -> Streetwear-style drops
+
+  -> Art-driven minimal linework
+
+  -> Local pride/culture tees (for micro-niches)
+
+- Limited Drops to create urgency (e.g., “Drop 01: Ocean Pulse”)
+
+🌍 3. Fulfillment & Inventory (Powered by Gelato)
+
+- Use Ideogram AI to generate 10–15 unique designs/month.
+
+- Upload them to Gelato’s product builder, apply across:
+
+    -> Men’s & Women’s tees
+
+    -> Hoodies
+
+    -> Long-sleeves (seasonal)
+
+- Offer worldwide shipping (Gelato handles fulfillment regionally to reduce shipping time and cost).
+
+4. Pricing & Profit Margins
+
+- T-shirts:
+
+    -> Base cost (Gelato): ~$12–$14
+
+    -> Sell for: $28–$34
+
+- Hoodies:
+
+  -> Base: ~$20–$24
+
+  -> Sell for: $45–$60
+
+- Keep 40–55% profit margin after fulfillment and transaction fees.
+
+5. Marketing & Sales Strategy
+
+a. Social Media Strategy
+  
+  - Instagram + TikTok: Short videos of designs being worn, AI design timelapses, creator messages
+
+  - Pinterest: Mood boards, style inspiration using your designs
+
+  - Facebook Ads: Target by interests (e.g., fashion, streetwear, ethical fashion, minimalist lifestyle)
+
+b. Influencer & Micro-Collabs
+
+  - Send free products to 10–15 micro-influencers (2K–10K followers) in exchange for photos/videos.
+
+  - Offer affiliate codes: e.g., 15% off for followers + 10% kickback to influencer
+
+c. Email & SMS Marketing
+
+  - Offer 10% off for newsletter sign-up
+
+  - Send weekly "new drop" or "behind-the-design" updates
+
+  - Use Shopify + Klaviyo (email) or SMSBump (text)
+
+
+6. Website Experience (Shopify)
+
+- Homepage: Hero section with logo, slogan, featured design
+
+- Shop by Theme: “Typography”, “Minimal”, “Bold”, “Limited Drop”
+
+- Customer Reviews (use Judge.me or Loox)
+
+- Easy filter: Size, color, design type
+
+- Add Live Chat widget (like Tidio or Shopify Inbox)
+
+
+7. Scaling Strategy
+
+- Analyze best-selling designs each month — double down on what works
+
+- Launch a pre-order model for high-interest designs to test market before printing
+
+- Consider bundling (Buy 2, get 1 50% off) once traffic increases
+
+- Launch a “Design Collab Series” with artists or customers using Ideogram prompts
+
+8. Long-Term Profit Levers
+
+- Launch a subscription box or mystery tee of the month
+
+- Open a Shopify blog for SEO: “The Stories Behind the Styles”
+
+- Offer custom name-based designs for birthday gifts, couple tees, etc.
+
+- Expand to sustainable materials or premium cuts once profitable
