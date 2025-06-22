@@ -1,0 +1,15 @@
+Pixlr E (pixlr.com/editor)
+
+- Click "Open image" 
+
+- Select Eraser from the left-sidebar 
+
+- Erase the stuffs you need to Erase
+
+- Select File from the top tab
+
+- Select Export
+
+- Select "Quick export layer as PNG.."
+
+- Save as a PNG file 
