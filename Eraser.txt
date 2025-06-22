@@ -1,4 +1,4 @@
-Pixlr E (pixlr.com/editor)
+Pixlr (pixlr.com/editor)
 
 - Click "Open image" 
 
