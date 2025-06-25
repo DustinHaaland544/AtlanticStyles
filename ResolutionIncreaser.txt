@@ -1,0 +1,64 @@
+Great move using ColorZilla — that's one of the best tools for grabbing accurate HEX codes directly from any web page (like Gelato’s product previews).
+
+Now for your issue: when Gelato warns that your image is low resolution, it’s saying the file doesn't meet their minimum DPI (dots per inch) or pixel dimension requirements 
+for high-quality printing on apparel. The good news is:
+
+You Can Upscale PNG or JPG Images (Free, High Quality)
+
+Here are the best free online tools to upscale your images without destroying quality, using AI-powered upscaling:
+
+ 1. Upscale Media — ⭐ Best Overall (Free, No Signup): www.upscale.media
+
+- Drag and drop your PNG or JPG
+
+- Automatically enhances and upscales (2x to 4x)
+
+- Preserves transparency in PNGs (important for logos!)
+
+- No watermarks
+
+Very good color and edge preservation
+
+Great for: T-shirt logo files, vector-style designs, transparent artwork
+
+2. Let’s Enhance — High-Quality Prints (Free Credits Available)
+
+- Specifically built for print-ready designs
+
+- Smart AI detects image type and adjusts accordingly
+
+- You get free credits (usually 5–10 images per month on free plan)
+
+- Can set output to 300 DPI (great for Gelato standards)
+
+Great for: Complex designs, detailed illustrations, product photos
+
+3. PIXLR’s Upscale Tool
+
+- From the same creators as Pixlr E
+
+- Drag, drop, enhance — super fast
+
+- Free tier supports 2x upscale
+
+- Good for logo and design images
+
+4. Image Upscaler (https://imageupscaler.com)
+
+- No signup needed
+
+- Supports 2x and 4x enlargement
+
+- Works well for clean PNG/JPG designs (but avoid photo-heavy ones here)
+
+What to Avoid:
+
+- Don’t use regular resizing tools like Paint or most phone apps — they’ll just stretch pixels, not enhance resolution.
+
+- Stick to AI upscalers built for this purpose.
+
+Ideal Size for Gelato:
+
+- Aim for at least 4500 x 5400 pixels, PNG, and 300 DPI for best results.
+
+- Especially important for large prints like full-front shirt designs.
