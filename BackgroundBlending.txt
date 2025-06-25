@@ -1,0 +1,56 @@
+Yes — this is a common issue when uploading designs to Gelato (or any Print-on-Demand platform) where the design background doesn't blend seamlessly with the shirt color, resulting 
+in visible boxes or contrast blocks that ruin the aesthetic.
+
+Here’s how to fix that professionally and consistently:
+
+3 Ways to Match Design Background with Shirt Color on Gelato:
+
+ 1. Use Transparent Backgrounds for Your Designs (Best Practice)
+
+- Always remove the background of your design (make it transparent) before uploading to Gelato.
+
+- File format must be PNG with transparency enabled.
+
+- This way, the design will float naturally over any shirt color you choose.
+
+Tools to do this:
+
+- Pixlr: Use the Eraser tool and export as PNG.
+
+- Remove.bg: Upload your design and download the background-removed version.
+
+- Photopea: Unlock the background layer > erase it > export as PNG with transparency.
+
+2. Color Match the Design Background to the Shirt Color (If Transparency Isn't Possible)
+
+If you must have a background in the design, do this:
+
+Tools like:
+
+- Pixlr, Photopea, Canva
+
+- Use the color picker/eyedropper tool in Gelato or your editor to grab the exact shirt color hex code.
+
+Steps:
+
+1. In your design editor, set the background color of the design to exactly match the Gelato shirt color (e.g., #F1F1F1 for light gray).
+
+2. Export the file as a high-res PNG or JPG.
+
+3. Upload it to Gelato — it will now blend perfectly.
+
+- Caution: If Gelato's color rendering changes slightly during printing, the match may not be 100% precise. Transparency is still safer.
+
+Add a Soft Fade or Border
+
+As a creative workaround:
+
+- Add a soft gradient or feathered edge around your design to help it blend more smoothly with any shirt color.
+
+- Works well with vintage or distressed aesthetics.
+
+Pro Tip for Gelato:
+
+- When previewing on Gelato, test your design on multiple shirt colors to ensure it blends well or the transparency works correctly.
+
+- If using a solid color background, stick to white, black, or heather gray for easiest matching.
