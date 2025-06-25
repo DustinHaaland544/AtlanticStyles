@@ -29,6 +29,8 @@ Tools like:
 
 - Pixlr, Photopea, Canva
 
+- Or use Chrome's color picker extension Color Zilla to pick the hex code of the shirts color to match the background 
+
 - Use the color picker/eyedropper tool in Gelato or your editor to grab the exact shirt color hex code.
 
 Steps:
