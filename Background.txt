@@ -34,7 +34,17 @@ To replace the transparent background with your custom color:
 
 - Select the Fill Tool (paint bucket) from the sidebar.
 
-- Set your desired HEX color (e.g. #F1F1F1).
+- Look at the bottom-left corner of the screen — you'll see a color box (the currently active color).
+
+- Click on that color box → This opens the Color Picker window.
+
+- Inside the color picker, look for the HEX field (usually labeled # or HEX).
+
+- Paste or type your HEX code (example: #F1F1F1 for light gray or #00FFFF for cyan).
+
+- Click OK or close the color picker — now your Fill Tool is set to that HEX color.
+
+- Click once on your new background layer (make sure it's selected) to fill it with the chosen color.
 
 - Click on the new layer to apply the color as your new background.
 
