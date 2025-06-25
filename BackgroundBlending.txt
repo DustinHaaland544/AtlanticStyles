@@ -33,15 +33,15 @@ Tools like:
 
 Steps:
 
-1. In your design editor, set the background color of the design to exactly match the Gelato shirt color (e.g., #F1F1F1 for light gray).
+- In your design editor, set the background color of the design to exactly match the Gelato shirt color (e.g., #F1F1F1 for light gray).
 
-2. Export the file as a high-res PNG or JPG.
+- Export the file as a high-res PNG or JPG.
 
-3. Upload it to Gelato — it will now blend perfectly.
+- Upload it to Gelato — it will now blend perfectly.
 
-- Caution: If Gelato's color rendering changes slightly during printing, the match may not be 100% precise. Transparency is still safer.
+Caution: If Gelato's color rendering changes slightly during printing, the match may not be 100% precise. Transparency is still safer.
 
-Add a Soft Fade or Border
+3. Add a Soft Fade or Border
 
 As a creative workaround:
 
