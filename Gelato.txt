@@ -5,3 +5,5 @@ www.gelato.com/ca
 Synced with shahstyles1548@gmail.com [WP2020] 
 
 Dashboard: https://dashboard.gelato.com
+
+Product List: https://dashboard.gelato.com/stores/d58da7c0-b168-477b-8b5f-035bb2a84dcd/products/list
