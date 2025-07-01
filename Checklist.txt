@@ -1,0 +1,75 @@
+ Printify Product Upload Checklist
+
+- Use this every time you add a new product to keep things smooth and consistent.
+
+1. Prep Your Design
+
+- Design is in PNG format
+
+- Transparent background (no white or black behind the design)
+
+- 300 DPI resolution
+
+- Minimum size: 4500 × 5400 px (especially for full-front apparel)
+
+2. Choose a Product
+
+- Go to Catalog
+
+- Select category (e.g., T-shirts, hoodies, mugs, etc.)
+
+- Click “Start Designing” on your chosen product
+
+3. Upload Your Design
+
+- Click “Add your design”
+
+- Upload PNG file
+
+- Resize and position it properly on the product
+
+-  Optional: Add text or use other placements (e.g., back, sleeves)
+
+4. Preview & Choose Variants
+
+- Preview how it looks on different shirt colors
+
+- Deselect any colors where the design doesn’t look right
+
+- Choose sizes to offer (S to 3XL or 4XL)
+
+5. Product Details
+
+- Edit Product Title (make it SEO-friendly)
+
+- Paste your custom product description (clear, catchy, formatted)
+
+- Add Size Guide (optional but recommended)
+
+- Set Retail Price (leave enough for profit after Printify + Shopify fees)
+
+6. Final Checks
+
+- Double-check mockup previews
+
+- Make sure background is clean and transparent
+
+- Check spelling in title and description
+
+7. Publish
+
+- Click “Publish” to send to Shopify store
+
+- Go to Shopify → confirm it appears in the right collection
+
+- Preview on your live store
+
+8. Promote (Optional)
+
+- Download mockups for marketing
+
+- Post on Instagram, TikTok, Pinterest, or Facebook
+
+- Add to homepage featured products
+
+- Send to email list if available
