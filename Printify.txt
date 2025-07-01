@@ -7,4 +7,4 @@ ChatGPT prompts to update the product description:
 
 This is the product description that Printify AI has generated for my product. Do you think, this description is ok? If not can 
 you make it presentable, organized, to the point, professional and attractive so that it attracts customers all around the globe and make 
-them buy please?
+them buy the product?
