@@ -8,3 +8,36 @@ ChatGPT prompts to update the product description:
 This is the product description that Printify AI has generated for my product. Do you think, this description is ok? If not can 
 you make it presentable, organized, to the point, professional and attractive so that it attracts customers all around the globe and make 
 them buy the product?
+
+Catalog:
+
+Printify is a solid platform, especially when you’re optimizing for cost, product variety, and ease of publishing. Since you’ve already uploaded a transparent PNG, 
+you’re ahead of the game for color variations.
+
+How to Preview Your Design on Different Shirt Colors in Printify:
+
+Step-by-Step in Printify:
+
+- Open your product in the Printify dashboard.
+
+- Click “Edit” or “Preview” on the product listing.
+
+- Inside the editor, you’ll see all available shirt colors in a color palette panel.
+
+- Click through different colors — the live preview will update immediately.
+
+- You can deselect any shirt colors you don’t want to offer.
+
+- Once happy, click “Save product” and it will reflect all selected colors on your store.
+
+Pro Tip:
+
+Choose 5–8 shirt colors to keep your store clean and easy to navigate — including:
+
+- 1–2 light (e.g., white, sand, light gray)
+
+- 1–2 dark (black, navy, charcoal)
+
+- 1–2 vibrant (red, blue, green)
+
+- 1 seasonal (like pastel for summer or earth tones for fall)
