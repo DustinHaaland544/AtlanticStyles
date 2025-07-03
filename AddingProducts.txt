@@ -1,0 +1,79 @@
+Step-by-Step: How to Upload & Use Your Design on Printify
+
+Step 1: Sign in to Your Printify Account
+
+- Go to printify.com and log in
+
+- Make sure your Shopify store is connected (Settings > Manage Stores > Add New Store)
+
+Step 2: Choose a Product
+
+- Click on “Catalog” in the left sidebar
+
+- Browse by category (e.g. T-shirts, mugs, hoodies, etc.)
+
+- Select the product you want to design (e.g. “Unisex Cotton Tee - Gildan 5000”)
+
+- Click “Start Designing”
+
+Step 3: Upload Your Design
+
+- Click the green “Add your design” button
+
+- Upload your PNG file (preferably with transparent background)
+
+- Drag and resize your design directly onto the mockup
+
+  -> Use the rulers and center alignment tools for precision
+
+  -> Use front, back, or sleeve placement if available
+
+- Recommended specs:
+
+  -> PNG format
+
+  -> 300 DPI
+
+  -> Minimum ~4500×5400 pixels for full-front T-shirt
+
+Step 4: Preview on Different Variants
+
+- Choose your color options (click to preview on black, white, red, etc.)
+
+- Select sizes (usually S to 3XL or 4XL depending on the supplier)
+
+- Use the “Preview” tab to see mockups for each color
+
+- You can uncheck any colors or sizes you don’t want to offer.
+
+Step 5: Set Product Details
+
+- Click “Next” to edit the:
+
+  -> Product Title
+
+  -> Description
+
+  -> Sizing info
+
+  -> Price (set your profit margins)
+
+- You can use the default AI-generated description or paste in your own (like the one we worked on earlier).
+
+Step 6: Publish to Your Store
+
+- Click “Publish”
+
+- It will sync the product with your Shopify store
+
+- Check your Shopify dashboard to confirm it's live
+
+-  Your customers can now browse, add to cart, and buy the product directly from your site — Printify handles the printing and shipping!
+
+Pro Tips:
+
+- Start with 1–2 products and color variants to test what sells best
+
+- Use Printify’s free mockups or create lifestyle images in Canva or Placeit
+
+- Once live, promote your product on Instagram, TikTok, Facebook, or through email marketing
